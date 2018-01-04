@@ -13,6 +13,8 @@
         <hr>
         <a href="showForm">Hello show form</a>
         <br><br>
+        <a href="student/showFormStudent">Hello show form student</a>
+        <br><br>
         <img src="${pageContext.request.contextPath}/resources/images/logoSpring.png"/>
     </body>
 </html>
